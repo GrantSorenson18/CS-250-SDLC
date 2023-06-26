@@ -1,11 +1,9 @@
 # CS-250-SDLC
 
 1.How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
-
-
+I tried to take the user stories and include functioanlity and quality of life improvements that users mentioned. Things like the ability to filter, profile preferances, trending vacations, were all suggested by users and put in place in the plan fo the system. These suugestions were important because they allowed me to think about the user experience in a different way which made it easier to improve. This also made it easy to come up with our own user stories and attempt to include some functionality that we think users would want.
 2.How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
-
-
+I approach developning programs with organization in mind. The system should be drawn up and thought about before any code is written. software and hardware preferences are important to keep in mind when dealing with complex system and sometimes developers may encounter systems and tools that are new to them. I try to incorporate agile organizational practices like drawing up UML diagrams and organizing Use Cases. These are a couple good first steps to getting a project going and ideas on paper.
 3.What does it mean to be a good team member in software development?
-
+Being a good team members means always being honest about work and not being afraid to ask for help. It's important to remember that other team members are there to help, and they may have expertise and knowledge that can help you solve problems. This means it is also important for team members to be open to helping others and provide a friendly atmoshphre for working with. A team member who is not fun to work with will bring probelems into the team and disrupt the delicate environmen that helps great software be created.
 
